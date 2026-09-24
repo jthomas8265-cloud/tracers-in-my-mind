@@ -2,7 +2,9 @@
 
 Thoughts and veteran stories for John Thomas’s song *Tracers In My Mind*. In memory of Rachel.
 
-The public page is a single static file, `index.html`, served at `/`.
+Live site: https://jthomas8265-cloud.github.io/tracers-in-my-mind/
+
+The page is a single static file, `index.html`, served at `/`. GitHub Pages publishes the `gh-pages` branch.
 
 ## Run locally
 
